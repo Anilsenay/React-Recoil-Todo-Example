@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css';
 
 import NewTask from './components/new-task';
 import TodoList from './components/todo-list';
+import Filter from './components/filter';
 
 
 
@@ -13,6 +14,7 @@ function App() {
     <div className="App">
       <h1>Todo List Example with RecoilJs</h1>
       <NewTask />
+      <Filter />
       <TodoList />
     </div>
 

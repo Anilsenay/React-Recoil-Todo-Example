@@ -66,3 +66,17 @@
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
 }
+
+.filters{
+  display: inline-flex;
+  margin-top: 20px;
+  margin-left: -60px;
+}
+.filter-checkbox{
+  margin-right: 10px;
+  margin-left: 60px;
+}
+.filter-item{
+  align-items: center;
+  display: flex;
+}
