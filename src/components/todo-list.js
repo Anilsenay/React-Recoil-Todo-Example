@@ -11,7 +11,7 @@ export default function TodoList() {
   const todos = useRecoilValue(todoListSelector);
 
     return (
-        <div>
+        <div className="todo-list">
             {todos.map((item, index) => (
                 <TodoItem key={item.name} item={item} index={index} />
             ))}
