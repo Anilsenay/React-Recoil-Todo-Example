@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 -To test and learn Recoil(new state management library for React), not a real project.
 
+### Demo : 
+https://codesandbox.io/s/amazing-liskov-9bkts
+
+### Resources : 
 https://recoiljs.org/
 
 http://devnot.com/2020/recoiljs-nedir/
